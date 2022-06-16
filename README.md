@@ -1,6 +1,6 @@
 ### Olá 👋
 
-###### Sobre a Priscila
+##### Sobre a Priscila
 
 Em aprendizagem para o desenvolvimento de projetos com o uso de diversas tecnologias, como , automações IA e outros.
 
@@ -14,10 +14,6 @@ Em aprendizagem para o desenvolvimento de projetos com o uso de diversas tecnolo
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priscilabz&show_icons=true&theme=blue)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priscilabz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Contatos
