@@ -4,7 +4,7 @@
 - 👩🏻‍💻Hoje em aprendizagem para o desenvolvimento de projetos tecnológicos, estudando AI, ML, Deep Learning entre outros.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priscilabz&show_icons=true&theme=blue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priscilabz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
