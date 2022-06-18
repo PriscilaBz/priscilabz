@@ -1,8 +1,7 @@
-### Olá 👋
+### Olá !👋 Eu sou a Priscila
 
-##### Sobre a Priscila
-
-Em aprendizagem para o desenvolvimento de projetos com o uso de diversas tecnologias, como , automações IA e outros.
+- 🎓Estudante de Analise e Desenvolvimento de Sistemas.
+- 👩🏻‍💻Hoje em aprendizagem para o desenvolvimento de projetos tecnológicos, estudando AI, ML, Deep Learning entre outros.
 
 
 ### Habilidades
@@ -17,5 +16,11 @@ Em aprendizagem para o desenvolvimento de projetos com o uso de diversas tecnolo
 
 
 ### Contatos
+<div> 
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/pbucholz/)
+  <a href = "mailto:priscilabucholz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/priscilabz/priscilabz/blob/output/github-contribution-grid-snake.svg)
+  
+  <div> 
